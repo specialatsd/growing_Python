@@ -6,7 +6,7 @@
 
 | 폴더 | 내용 | 쓴 개념 |
 | --- | --- | --- |
-| [day07_moneybook](day07_moneybook) | 수입지출을 기록하고 저장하는 콘솔 가계부 (2인 팀) | 클래스 · 딕셔너리 · JSON · datetime |
+| [day07_moneybook](day07_moneybook) | 수입지출을 기록하고 저장하는 콘솔 가계부 | 클래스 · 딕셔너리 · JSON · datetime |
 
 ## 블로그
 
