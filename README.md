@@ -7,7 +7,6 @@
 | 폴더 | 내용 | 쓴 개념 |
 | --- | --- | --- |
 | [day07_moneybook](day07_moneybook) | 수입지출을 기록하고 저장하는 콘솔 가계부 | 클래스 · 딕셔너리 · JSON · datetime |
-| [programmers_basic](programmers_basic) | 프로그래머스 코딩 기초 트레이닝 풀이 (2페이지 20문제) | 조건문 · 반복문 · 문자열 · 슬라이싱 · 리스트 |
 
 ## 블로그
 
